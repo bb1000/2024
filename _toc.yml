@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: intro_lecture
+- file: computer_basics
+- file: Lecture3-notes
+- file: Lecture4-notes
+- file: lecture_05
+- file: lecture_06-revised-with-comments
+- file: lecture_07-with-comments
+- file: lecture_08
+- file: lecture_09
+- file: Lecturefeb23
+- file: LAB1-final
+
